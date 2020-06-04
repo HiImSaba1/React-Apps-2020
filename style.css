@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  b{
+    letter-spacing: 1px;
+    font-size: 1.1em;
+  }
+  .brand h1 {
+    font-size: 1.4em;
+    text-transform: uppercase;
+    color: black;
+    margin-left: 10px;
+  }
+  .brand h1 span {
+    color: crimson;
+  }
+  
+  .light-bg {
+    background: #f7eded;
+  }
+  .relative {
+    position: relative;
+  }
+  
+  
